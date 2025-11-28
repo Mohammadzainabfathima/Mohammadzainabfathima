@@ -1,113 +1,47 @@
-⭐ Hi, I'm Md Zainab Fathima
-Junior Software Engineer | App Dev | Backend | ML Enthusiast
+### 👋 Hi, I'm Zainab!
 
-I'm a B.Tech CSE graduate passionate about building things that actually work in the real world—from Android apps with real-time features to ML models deployed with FastAPI. I enjoy clean architecture, scalable code, and solving problems end-to-end.
+I'm a Software Engineer passionate about building **ML models, scalable backends, Android apps, and real-time systems**.  
+I love turning ideas into clean, efficient, and high-performance applications.
 
-🚀 What I Do
+---
 
-Develop Android apps using Kotlin, MVVM, Room, Firebase
+### 🚀 What I Do
+- 🧠 Machine Learning: Churn models, recommendation systems, ML pipelines  
+- 🔥 Backend: FastAPI microservices, REST APIs, Firebase, SQL  
+- 📱 Android Dev: Kotlin, MVVM, Room, LiveData, Firebase  
+- ⚡ Real-Time Apps: Java Sockets, multithreading, chat systems  
+- 📊 Analytics: SQL dashboards, CTEs, window functions
 
-Build ML pipelines & APIs using Python, Scikit-Learn, MLflow, FastAPI
+---
 
-Work with SQL analytics, CTEs, window functions
+### 📌 Highlights
+- ⚡ Built a real-time random matching engine (*<1.5s latency*) using Firebase  
+- 🧪 Achieved **89% F1-score** in Churn Prediction (22% better than baseline)  
+- 🎬 Improved Netflix-style recommendations by **22%** using TF-IDF + matrix factorization  
+- 🗄 Reduced analysis time by **40%** using optimized SQL & CTE pipelines  
+- 🤝 Deployed apps using GitHub Actions CI/CD
 
-Implement real-time systems, multi-threading & sockets
+---
 
-Write clean, efficient, production-ready code
+### 🛠 Tech Stack
+**Python | Java | Kotlin | SQL | MLflow | Scikit-Learn | FastAPI | Firebase | MVVM | SQL Joins | Window Functions | Git**
 
-🧠 Tech Stack
+---
 
-Languages: Python, Java, Kotlin, SQL
-Core CS: DSA, OOP, SDLC, Debugging, Git
-ML/DS: Scikit-Learn, Pandas, MLflow, Recommendation Systems
-Backend & App Dev: FastAPI, Firebase (Auth, Firestore, Storage), MVVM, Room
-Other: Java Sockets, Multi-threading, SQL Joins, Window Functions
-Testing: JUnit, Selenium (basic), Test Automation Fundamentals
+### 💡 What I'm Learning Now
+- System Design  
+- Advanced ML engineering  
+- Cloud deployments  
 
+---
 
-Md_Zainab_Fathima (1)
-
-🔥 Projects I'm Proud Of
-📱 InstaLink – Real-Time Random Chat App
-
-Built a StrangerConnect engine using Firebase Real-time Listeners for instant user matching
-
-Implemented MVVM, LiveData, ViewModel & Room
-
-Added FCM push notifications
-
-Reduced matching latency to <1.5 sec
-
-CI/CD using GitHub Actions
-
-
-Md_Zainab_Fathima (1)
-
-🤖 Customer Churn Prediction
-
-Feature engineering with Pandas
-
-ML models + MLflow experiment tracking
-
-Deployed using FastAPI as a real-time scoring microservice
-
-Achieved 89% F1-score (22% better than baseline)
-
-
-Md_Zainab_Fathima (1)
-
-🎬 Netflix Recommendation System
-
-Built TF-IDF + cosine similarity + matrix factorization models
-
-Improved recommendation accuracy by 22%
-
-Trained on 50k+ ratings
-
-
-Md_Zainab_Fathima (1)
-
-💬 Real-Time Chat Application (Java)
-
-Implemented client-server model using ServerSocket/Socket
-
-Multi-threading for concurrent messaging
-
-
-Md_Zainab_Fathima (1)
-
-📊 Sales & Revenue Analytics Dashboard
-
-Complex SQL queries with CTEs & window functions
-
-Reduced analysis time by 40%
-
-
-Md_Zainab_Fathima (1)
-
-🎓 Education
-
-B.Tech CSE — Swarna Bharati Institute of Science & Tech (2021–2025)
-CGPA: 7.2/10
-
-
-Md_Zainab_Fathima (1)
-
-🏅 Certifications
-
-Data Science — Innomatics Research Labs
-
-Java Developer — PrepInsta
-
-
-Md_Zainab_Fathima (1)
-
-📬 Let’s Connect
-
-📧 zainabmohammad9777@gmail.com
+### 💙 Fun Fact  
+I love building applications that are **fast, scalable, and feel instantly responsive**..............
 
 
 
-✨ “I build scalable experiences — from data to deployment.”
+
+
+
 
 
